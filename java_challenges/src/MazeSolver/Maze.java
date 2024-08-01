@@ -3,7 +3,7 @@ package MazeSolver;
 public class Maze {
     private static final int ROWS = 15;
     private static final int COLS = 15;
-    private Stack<Point> stack = new Stack<>(ROWS * COLS);
+    private Stack<Point> stack = new Stack<Point>(ROWS * COLS);
 
     private int[][] matrix = {
             {0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
