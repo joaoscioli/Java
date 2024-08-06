@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(Inventory): add package Inventory.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ChainExcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/FinallyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/HandleError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MethNestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MultipleCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/NestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/SuperSubCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/v2/ThrowsDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jgpIbHaC48Rw934tPlU9w9ZZoq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoBoxWeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoShipment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;IntegrationPerformanceTest&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.DemoShipment">
+    <configuration name="DemoBoxWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_08.DemoBoxWeight" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoShipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_08.DemoShipment" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_08.DemoSuper" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_08.SimpleInheritance" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Songs.Songs" />
+      <module name="java_challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Songs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoShipment" />
+        <item itemvalue="Application.DemoSuper" />
+        <item itemvalue="Application.DemoBoxWeight" />
+        <item itemvalue="Application.SimpleInheritance" />
+        <item itemvalue="Application.Songs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="" />
+      <created>1721818497228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721818497228</updated>
+      <workItem from="1721818498438" duration="101000" />
+      <workItem from="1721818602368" duration="5050000" />
+      <workItem from="1721843474836" duration="199000" />
+      <workItem from="1721858614930" duration="3156000" />
+      <workItem from="1721949080273" duration="1708000" />
+      <workItem from="1722098866987" duration="1900000" />
+      <workItem from="1722165054199" duration="3280000" />
+      <workItem from="1722257906147" duration="3582000" />
+      <workItem from="1722346501971" duration="880000" />
+      <workItem from="1722369918095" duration="23000" />
+      <workItem from="1722381148493" duration="12000" />
+      <workItem from="1722470310037" duration="1950000" />
+      <workItem from="1722522228158" duration="2295000" />
+      <workItem from="1722529109700" duration="7000" />
+      <workItem from="1722558606804" duration="42000" />
+      <workItem from="1722610453128" duration="2890000" />
+      <workItem from="1722697768401" duration="1119000" />
+      <workItem from="1722706981299" duration="1484000" />
+      <workItem from="1722718293213" duration="5023000" />
+      <workItem from="1722860630380" duration="7454000" />
+      <workItem from="1722947657660" duration="4529000" />
+      <workItem from="1722958446395" duration="8152000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
+      <option name="closed" value="true" />
+      <created>1721819077570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721819077570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(Library): add package Library.">
+      <option name="closed" value="true" />
+      <created>1721860558332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721860558332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(ToDo): add package ToDo.">
+      <option name="closed" value="true" />
+      <created>1722166354960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722166354960</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(Songs): add package Songs.">
+      <option name="closed" value="true" />
+      <created>1722180308143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722180308143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(TaskAllocation): add package TaskAllocation.">
+      <option name="closed" value="true" />
+      <created>1722270606003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722270606003</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(WordFrequencies): add package WordFrequencies.">
+      <option name="closed" value="true" />
+      <created>1722347283682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722347283682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat(SyntaxChecker): add package SyntaxChecker.">
+      <option name="closed" value="true" />
+      <created>1722471721530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722471721530</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat(MazeSolver): add package MazeSolver.">
+      <option name="closed" value="true" />
+      <created>1722524752775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722524752775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat(FileIndexer): add package FileIndexer.">
+      <option name="closed" value="true" />
+      <created>1722614656582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722614656582</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat(chapter_08): add package chapter_08.">
+      <option name="closed" value="true" />
+      <created>1722870143393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722870143393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat(Inventory): add package Inventory.">
+      <option name="closed" value="true" />
+      <created>1722951965277</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722951965277</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(customer-src): add Customer src" />
+    <MESSAGE value="feat(Library): add package Library." />
+    <MESSAGE value="feat(ToDo): add package ToDo." />
+    <MESSAGE value="feat(Songs): add package Songs." />
+    <MESSAGE value="feat(TaskAllocation): add package TaskAllocation." />
+    <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
+    <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
+    <MESSAGE value="feat(MazeSolver): add package MazeSolver." />
+    <MESSAGE value="feat(FileIndexer): add package FileIndexer." />
+    <MESSAGE value="feat(chapter_08): add package chapter_08." />
+    <MESSAGE value="feat(Inventory): add package Inventory." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(Inventory): add package Inventory." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_08/DemoSuper.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
