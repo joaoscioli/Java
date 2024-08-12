@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 /* Try statements can be implicitly nested via
 *  calls to methods. */
 public class MethNestTry {

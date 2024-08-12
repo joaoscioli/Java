@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // An example of nested try statements.
 public class NestTry {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // Demonstrate the multi-catch feature.
 public class MultiCatch {
     public static void main(String[] args) {

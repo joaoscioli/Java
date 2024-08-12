@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // Demonstrate throw.
 public class ThrowDemo {
     static void demoproc() {

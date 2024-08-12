@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // Demonstrate exception chaining.
 public class ChainExcDemo {
     static void demoproc() {

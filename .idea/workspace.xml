@@ -4,10 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_09): add package chapter_09.">
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/SocialNetwork/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/SocialNetwork/SocialNetwork.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(SocialNetwork): add package SocialNetwork.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Callme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/CurrentThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/Synch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Callme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/PCFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v2/Synch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v3/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v3/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v4/DemoJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v4/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v5/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_11/v5/SuspendResume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ChainExcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/ChainExcDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc0.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/Exc0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/Exc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/ExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/FinallyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/FinallyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/HandleError.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/HandleError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MethNestTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/MethNestTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MultiCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/MultiCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MultipleCatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/MultipleCatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/NestTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/NestTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/SuperSubCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/SuperSubCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ThrowDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/ThrowDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/ThrowsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/ThrowsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_09/v2/ThrowsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_10/v2/ThrowsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,35 +78,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DemoBoxWeight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoShipment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CurrentThreadDemo.executor": "Run",
+    "Application.DemoBoxWeight.executor": "Run",
+    "Application.DemoShipment.executor": "Run",
+    "Application.DemoSuper.executor": "Run",
+    "Application.SimpleInheritance.executor": "Run",
+    "Application.Songs.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;IntegrationPerformanceTest&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "IntegrationPerformanceTest"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.DemoShipment">
+}]]></component>
+  <component name="RunManager" selected="Application.ThreadDemo">
+    <configuration name="CurrentThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.CurrentThreadDemo" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoBoxWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_08.DemoBoxWeight" />
       <module name="GitJoaoScioli" />
@@ -104,25 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_08.SimpleInheritance" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.ThreadDemo" />
       <module name="GitJoaoScioli" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Songs.Songs" />
-      <module name="java_challenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Songs.*" />
+          <option name="PATTERN" value="chapter_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.CurrentThreadDemo" />
         <item itemvalue="Application.DemoShipment" />
         <item itemvalue="Application.DemoSuper" />
         <item itemvalue="Application.DemoBoxWeight" />
-        <item itemvalue="Application.SimpleInheritance" />
-        <item itemvalue="Application.Songs" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +222,9 @@
       <workItem from="1722947657660" duration="4529000" />
       <workItem from="1722958446395" duration="8757000" />
       <workItem from="1723031219967" duration="596000" />
-      <workItem from="1723154568758" duration="2777000" />
+      <workItem from="1723154568758" duration="3138000" />
+      <workItem from="1723382011539" duration="67000" />
+      <workItem from="1723476744448" duration="12458000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -284,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722968335779</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat(SocialNetwork): add package SocialNetwork.">
+      <option name="closed" value="true" />
+      <created>1723158664348</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723158664348</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +357,8 @@
     <MESSAGE value="feat(chapter_08): add package chapter_08." />
     <MESSAGE value="feat(Inventory): add package Inventory." />
     <MESSAGE value="feat(chapter_09): add package chapter_09." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_09): add package chapter_09." />
+    <MESSAGE value="feat(SocialNetwork): add package SocialNetwork." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(SocialNetwork): add package SocialNetwork." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

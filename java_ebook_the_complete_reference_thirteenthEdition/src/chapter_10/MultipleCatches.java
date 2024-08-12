@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // Demonstrate multiples catch statements.
 public class MultipleCatches {
     public static void main(String[] args) {

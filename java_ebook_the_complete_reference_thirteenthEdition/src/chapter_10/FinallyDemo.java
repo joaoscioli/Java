@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // Demonstrate finally.
 public class FinallyDemo {
     // Throw an exception out of the method.

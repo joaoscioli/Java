@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 // This program contains an error and will not compile.
 public class ThrowsDemo {
     static void throwOne() {

@@ -1,4 +1,4 @@
-package chapter_09;
+package chapter_10;
 /* This program contains an error.
 *  A subclass must come before its superclass in
 *  a series of catch statements. If not,

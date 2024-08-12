@@ -1,4 +1,4 @@
-package chapter_09.v2;
+package chapter_10.v2;
 // This is now correct.
 public class ThrowsDemo {
     static void throwOne() throws IllegalAccessException {
