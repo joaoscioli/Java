@@ -4,29 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_12): add package chapter_12.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/AssertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/BRRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/BRReadLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/Hypot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/InstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/ShowFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/TinyEdit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/WriteDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v2/AssertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v2/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v2/Hypot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v2/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v2/ShowFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_13/v3/ShowFile.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_13): add package chapter_13.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/BlockLambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/DoubleNumericArrayFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/EmptyArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/GenericFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/LambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/LambdaExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/NumericFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/NumericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/NumericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/SomeFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/UseMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/VarCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v2/LambdasAsArgumentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v2/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v3/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v3/MyStringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v3/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v4/MethodRefDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v4/MyStringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v4/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v5/HighTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v5/InstanceMethWithObjectRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v5/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v6/GenericMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v6/MyArrayOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v6/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v7/ConstructorRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v7/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v7/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v8/ConstructorRefDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v8/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v8/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v9/ConstructorRefDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v9/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v9/MyClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_15/v9/MyFunc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +88,12 @@
     &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
     &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.EnumDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpGen.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
     &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildcardDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.WriteDemo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -97,7 +121,7 @@
       <recent name="chapter_12.v8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteDemo">
+  <component name="RunManager" selected="Application.WildcardDemo">
     <configuration name="AutoBox4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_12.AutoBox4" />
       <module name="GitJoaoScioli" />
@@ -111,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_12.EnumDemo" />
+    <configuration name="GenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_14.GenDemo" />
       <module name="GitJoaoScioli" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_12.*" />
+          <option name="PATTERN" value="chapter_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_12.v5.EnumDemo4" />
+    <configuration name="SimpGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_14.SimpGen" />
       <module name="GitJoaoScioli" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_12.v5.*" />
+          <option name="PATTERN" value="chapter_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.ThreadDemo" />
+    <configuration name="WildcardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_14.v3.WildcardDemo" />
       <module name="GitJoaoScioli" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.*" />
+          <option name="PATTERN" value="chapter_14.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildcardDemo" />
+        <item itemvalue="Application.SimpGen" />
+        <item itemvalue="Application.GenDemo" />
         <item itemvalue="Application.WriteDemo" />
         <item itemvalue="Application.AutoBox4" />
-        <item itemvalue="Application.EnumDemo4" />
-        <item itemvalue="Application.EnumDemo" />
-        <item itemvalue="Application.ThreadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +242,15 @@
       <workItem from="1723590605228" duration="2684000" />
       <workItem from="1723634327923" duration="1445000" />
       <workItem from="1723677275939" duration="3899000" />
-      <workItem from="1723934517984" duration="5739000" />
+      <workItem from="1723934517984" duration="6222000" />
+      <workItem from="1723986344793" duration="5223000" />
+      <workItem from="1724000933864" duration="3365000" />
+      <workItem from="1724082421268" duration="5982000" />
+      <workItem from="1724677801286" duration="1072000" />
+      <workItem from="1724866789014" duration="4542000" />
+      <workItem from="1724930929123" duration="5187000" />
+      <workItem from="1724965300269" duration="5942000" />
+      <workItem from="1725012891739" duration="4790000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -348,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723635756936</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat(chapter_13): add package chapter_13.">
+      <option name="closed" value="true" />
+      <created>1723941038659</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723941038659</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +410,8 @@
     <MESSAGE value="feat(SocialNetwork): add package SocialNetwork." />
     <MESSAGE value="feat(chapter_11): add package chapter_11." />
     <MESSAGE value="feat(chapter_12): add package chapter_12." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_12): add package chapter_12." />
+    <MESSAGE value="feat(chapter_13): add package chapter_13." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_13): add package chapter_13." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
