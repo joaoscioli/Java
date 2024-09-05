@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_15): add package chapter_15.">
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/Flights/Flights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/Flights/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/appfuncs/simplefuncs/SimpleMathFuncs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/appfuncs/simplefuncs/v2/SimpleMathFuncs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/MyModAppDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/v2/MyModAppDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/v3/MyModAppDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appsupport/appsupport/supportfuncs/SupportFuncs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appsupport/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/userfuncs/binaryfuncs/BinFuncProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/userfuncs/binaryfuncs/BinaryFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsMinusProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsPlusProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/v2/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/java_ebook_the_complete_reference_thirteenthEdition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/java_ebook_the_complete_reference_thirteenthEdition.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +36,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="module-info" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +97,16 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter_12.v8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\v2" />
+      <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appfuncs" />
+      <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appstart" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chapter_16.mymodapp.appsrc.userfuncsimp" />
+      <recent name="chapter_16.mymodapp.appsrc.userfuncs" />
+      <recent name="chapter_16.mymodapp.appsrc.appsupport" />
     </key>
   </component>
   <component name="RunManager" selected="Application.WildcardDemo">
@@ -211,6 +240,8 @@
       <workItem from="1724965300269" duration="5942000" />
       <workItem from="1725012891739" duration="6429000" />
       <workItem from="1725067599974" duration="3627000" />
+      <workItem from="1725364285721" duration="106000" />
+      <workItem from="1725537210281" duration="11962000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
