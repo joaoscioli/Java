@@ -4,27 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_15): add package chapter_15.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/appfuncs/simplefuncs/SimpleMathFuncs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/appfuncs/simplefuncs/v2/SimpleMathFuncs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appfuncs/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/MyModAppDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/v2/MyModAppDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/appstart/mymodappdemo/v3/MyModAppDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appstart/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appsupport/appsupport/supportfuncs/SupportFuncs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/appsupport/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/userfuncs/binaryfuncs/BinFuncProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncs/userfuncs/binaryfuncs/BinaryFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsMinusProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/mymodapp/appsrc/userfuncsimp/userfuncsimp/binaryfuncsimp/AbsPlusProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_16/v2/module-info.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_16): add package chapter_16.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/RecordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/v2/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/java_ebook_the_complete_reference_thirteenthEdition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/java_ebook_the_complete_reference_thirteenthEdition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/Customer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +23,7 @@
         <option value="Interface" />
         <option value="module-info" />
         <option value="package-info" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -241,7 +227,8 @@
       <workItem from="1725012891739" duration="6429000" />
       <workItem from="1725067599974" duration="3627000" />
       <workItem from="1725364285721" duration="106000" />
-      <workItem from="1725537210281" duration="11962000" />
+      <workItem from="1725537210281" duration="13195000" />
+      <workItem from="1725619524788" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -387,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725018025489</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat(chapter_16): add package chapter_16.">
+      <option name="closed" value="true" />
+      <created>1725555246674</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725555246674</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +418,8 @@
     <MESSAGE value="feat(chapter_13): add package chapter_13." />
     <MESSAGE value="feat(chapter_14): add package chapter_14." />
     <MESSAGE value="feat(chapter_15): add package chapter_15." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_15): add package chapter_15." />
+    <MESSAGE value="feat(chapter_16): add package chapter_16." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_16): add package chapter_16." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
