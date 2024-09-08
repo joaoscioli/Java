@@ -4,12 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_16): add package chapter_16.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/RecordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_17/v2/Employee.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_17): add package chapter_17.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/ChangeCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/ConCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/EqualsNotEqualTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/MakeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/ReverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/StringJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/SubStringCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/UseTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/appendDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/deleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/equalsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/getCharsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/indexOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/insertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/replaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/setCharAtDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/toStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_18/v2/IndexOfDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/Customer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +38,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="module-info" />
         <option value="package-info" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -228,7 +246,9 @@
       <workItem from="1725067599974" duration="3627000" />
       <workItem from="1725364285721" duration="106000" />
       <workItem from="1725537210281" duration="13195000" />
-      <workItem from="1725619524788" duration="2865000" />
+      <workItem from="1725619524788" duration="19466000" />
+      <workItem from="1725750336227" duration="4486000" />
+      <workItem from="1725792911083" duration="3583000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -382,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725555246674</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat(chapter_17): add package chapter_17.">
+      <option name="closed" value="true" />
+      <created>1725642343416</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725642343416</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +447,8 @@
     <MESSAGE value="feat(chapter_14): add package chapter_14." />
     <MESSAGE value="feat(chapter_15): add package chapter_15." />
     <MESSAGE value="feat(chapter_16): add package chapter_16." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_16): add package chapter_16." />
+    <MESSAGE value="feat(chapter_17): add package chapter_17." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_17): add package chapter_17." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
