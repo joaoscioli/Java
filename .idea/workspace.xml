@@ -4,30 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_18): add package chapter_18.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ACDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/Angles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/CloneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/DoubleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/Elapsed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ExecDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ExecDemoFini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/InfNaN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/IsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/NewThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/PBDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ParseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/PkgTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/RTTI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ShowUserDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/StringConversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/TestClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/ThreadGroupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/VerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/v2/CloneDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_19/v2/TestClone.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_19): add package chapter_19.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/AlgorithmsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/ArrayDequeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/ArrayListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/CompDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/CompDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/CompLastNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/CompThenByFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/ForEachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/HTDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/HTDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/MailList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/MyComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/PropDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/PropDemoDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/SpliteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/TComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/TreeMapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/TreeMapDemo2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_20/VectorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +258,10 @@
       <workItem from="1725619524788" duration="19466000" />
       <workItem from="1725750336227" duration="4486000" />
       <workItem from="1725792911083" duration="12715000" />
-      <workItem from="1725827720764" duration="775000" />
+      <workItem from="1725827720764" duration="804000" />
+      <workItem from="1725877457948" duration="5779000" />
+      <workItem from="1725905406306" duration="4430000" />
+      <workItem from="1726003668728" duration="9860000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -420,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725796609969</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feat(chapter_19): add package chapter_19.">
+      <option name="closed" value="true" />
+      <created>1725829576749</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725829576749</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +478,8 @@
     <MESSAGE value="feat(chapter_16): add package chapter_16." />
     <MESSAGE value="feat(chapter_17): add package chapter_17." />
     <MESSAGE value="feat(chapter_18): add package chapter_18." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_18): add package chapter_18." />
+    <MESSAGE value="feat(chapter_19): add package chapter_19." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_19): add package chapter_19." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
