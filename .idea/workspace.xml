@@ -4,33 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_21): add package chapter_21.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/BufferedInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/BufferedReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/ByteArrayInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/ByteArrayInputStreamReset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/ByteArrayOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/CharArrayReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/CharArrayWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/ConsoleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/DIrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/DataIODemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/DirListOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/FileOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/FileReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/FileWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/InputStreamEnumerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/OnlyExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/PrintfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/PushbackInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/PushbackReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/SequenceInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/SerializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/v2/FileOutputStreamDemo.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_22): add package chapter_22.">
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/DirTreeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/ExplicitChannelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/ExplicitChannelWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/MappedChannelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/MappedChannelWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/MyFileVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/NIOCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/NIOStreamWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/PathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/v2/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_23/v2/ExplicitChannelRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/DataIODemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_22/DataIODemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +252,13 @@
       <workItem from="1726502078705" duration="5816000" />
       <workItem from="1726519846655" duration="1531000" />
       <workItem from="1726846893670" duration="11196000" />
-      <workItem from="1727088817617" duration="7469000" />
+      <workItem from="1727088817617" duration="8128000" />
+      <workItem from="1727175870273" duration="7000" />
+      <workItem from="1727177838502" duration="249000" />
+      <workItem from="1727303288394" duration="2282000" />
+      <workItem from="1727351141115" duration="21000" />
+      <workItem from="1727539315663" duration="652000" />
+      <workItem from="1727952380401" duration="8993000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -457,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726520777729</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="feat(chapter_22): add package chapter_22.">
+      <option name="closed" value="true" />
+      <created>1727097183489</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727097183489</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +502,8 @@
     <MESSAGE value="feat(chapter_19): add package chapter_19." />
     <MESSAGE value="feat(chapter_20): add package chapter_20." />
     <MESSAGE value="feat(chapter_21): add package chapter_21." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_21): add package chapter_21." />
+    <MESSAGE value="feat(chapter_22): add package chapter_22." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_22): add package chapter_22." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

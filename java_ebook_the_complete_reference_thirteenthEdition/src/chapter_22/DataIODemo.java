@@ -6,7 +6,7 @@ import java.io.*;
 public class DataIODemo {
     public static void main(String[] args) throws IOException {
         // First, write the data.
-        try (DataOutputStream dout = new DataOutputStream(new FilterOutputStream("Test.dat"))) {
+        try (DataOutputStream dout = new DataOutputStream(new FileOutputStream("Test.dat"))) {
             dout.writeDouble(98.6);
             dout.writeInt(1000);
             dout.writeBoolean(true);
