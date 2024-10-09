@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_23): add package chapter_23.">
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/HttpClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/HttpURLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/UCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/Whois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/WriteServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_24/v2/Whois.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_24): add package chapter_24.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/KeyEventsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MouseEventsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MousePressedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MyMouseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MyWindowAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/SimpleKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v2/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v3/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v4/AnonymousInnerClassDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,44 +49,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AutoBox4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurrentThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoBoxWeight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoShipment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpGen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildcardDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoBox4.executor": "Run",
+    "Application.CurrentThreadDemo.executor": "Run",
+    "Application.DemoBoxWeight.executor": "Run",
+    "Application.DemoShipment.executor": "Run",
+    "Application.DemoSuper.executor": "Run",
+    "Application.EnumDemo.executor": "Run",
+    "Application.EnumDemo4.executor": "Run",
+    "Application.FileDemo.executor": "Run",
+    "Application.GenDemo.executor": "Run",
+    "Application.MouseEventsDemo.executor": "Run",
+    "Application.SimpGen.executor": "Run",
+    "Application.SimpleInheritance.executor": "Run",
+    "Application.SimpleKey.executor": "Run",
+    "Application.Songs.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.WildcardDemo.executor": "Run",
+    "Application.WriteDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;IntegrationPerformanceTest&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "IntegrationPerformanceTest"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter_12.v8" />
@@ -100,7 +105,7 @@
       <recent name="chapter_16.mymodapp.appsrc.appsupport" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileDemo">
+  <component name="RunManager" selected="Application.SimpleKey">
     <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_22.FileDemo" />
       <module name="GitJoaoScioli" />
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_14.GenDemo" />
+    <configuration name="MouseEventsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_25.MouseEventsDemo" />
       <module name="GitJoaoScioli" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_14.*" />
+          <option name="PATTERN" value="chapter_25.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,6 +145,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_25.SimpleKey" />
+      <module name="GitJoaoScioli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_25.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WildcardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_14.v3.WildcardDemo" />
       <module name="GitJoaoScioli" />
@@ -153,26 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_13.WriteDemo" />
-      <module name="GitJoaoScioli" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleKey" />
+        <item itemvalue="Application.MouseEventsDemo" />
         <item itemvalue="Application.FileDemo" />
         <item itemvalue="Application.WildcardDemo" />
         <item itemvalue="Application.SimpGen" />
-        <item itemvalue="Application.GenDemo" />
-        <item itemvalue="Application.WriteDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +257,10 @@
       <workItem from="1727303288394" duration="2282000" />
       <workItem from="1727351141115" duration="21000" />
       <workItem from="1727539315663" duration="652000" />
-      <workItem from="1727952380401" duration="18566000" />
+      <workItem from="1727952380401" duration="19042000" />
+      <workItem from="1728313313216" duration="17000" />
+      <workItem from="1728468081029" duration="1965000" />
+      <workItem from="1728508742172" duration="6345000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -462,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727968065257</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat(chapter_24): add package chapter_24.">
+      <option name="closed" value="true" />
+      <created>1727998753249</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727998753249</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(Library): add package Library." />
     <MESSAGE value="feat(ToDo): add package ToDo." />
     <MESSAGE value="feat(Songs): add package Songs." />
     <MESSAGE value="feat(TaskAllocation): add package TaskAllocation." />
@@ -505,7 +520,8 @@
     <MESSAGE value="feat(chapter_21): add package chapter_21." />
     <MESSAGE value="feat(chapter_22): add package chapter_22." />
     <MESSAGE value="feat(chapter_23): add package chapter_23." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_23): add package chapter_23." />
+    <MESSAGE value="feat(chapter_24): add package chapter_24." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_24): add package chapter_24." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
