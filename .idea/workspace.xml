@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(add project): add project LRUCache">
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(add project): add project AuctionServer part one">
+      <change afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionClient/AuctionClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +274,8 @@
       <workItem from="1728508742172" duration="6345000" />
       <workItem from="1730581587414" duration="3357000" />
       <workItem from="1730632628204" duration="614000" />
-      <workItem from="1730665214521" duration="2174000" />
+      <workItem from="1730665214521" duration="2270000" />
+      <workItem from="1730715154539" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -499,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730671611865</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat(add project): add project AuctionServer part one">
+      <option name="closed" value="true" />
+      <created>1730673256445</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730673256445</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,8 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(Songs): add package Songs." />
-    <MESSAGE value="feat(TaskAllocation): add package TaskAllocation." />
     <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
     <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
     <MESSAGE value="feat(MazeSolver): add package MazeSolver." />
@@ -542,7 +550,9 @@
     <MESSAGE value="feat(chapter_23): add package chapter_23." />
     <MESSAGE value="feat(chapter_24): add package chapter_24." />
     <MESSAGE value="feat(add project): add project LRUCache" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(add project): add project LRUCache" />
+    <MESSAGE value="feat(add project): add project AuctionServer" />
+    <MESSAGE value="feat(add project): add project AuctionServer part one" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(add project): add project AuctionServer part one" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
