@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_25): update package chapter_25.">
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(add project): add project AuctionServer part one">
+      <change afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionClient/AuctionClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +30,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "joaoscioli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joaoscioli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/joaoscioli/Java.git",
-    "accountId": "67a8006e-8d3f-4d06-913f-8196a06eca46"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joaoscioli/Java.git&quot;,
+    &quot;accountId&quot;: &quot;67a8006e-8d3f-4d06-913f-8196a06eca46&quot;
   }
-}]]></component>
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,48 +58,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AutoBox4.executor": "Run",
-    "Application.CurrentThreadDemo.executor": "Run",
-    "Application.DemoBoxWeight.executor": "Run",
-    "Application.DemoShipment.executor": "Run",
-    "Application.DemoSuper.executor": "Run",
-    "Application.EnumDemo.executor": "Run",
-    "Application.EnumDemo4.executor": "Run",
-    "Application.FileDemo.executor": "Run",
-    "Application.GenDemo.executor": "Run",
-    "Application.MouseEventsDemo.executor": "Run",
-    "Application.SimpGen.executor": "Run",
-    "Application.SimpleInheritance.executor": "Run",
-    "Application.SimpleKey.executor": "Run",
-    "Application.Songs.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.WildcardDemo.executor": "Run",
-    "Application.WriteDemo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AutoBox4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrentThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoBoxWeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoShipment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MouseEventsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpGen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleKey.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildcardDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "IntegrationPerformanceTest"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;IntegrationPerformanceTest&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter_12.v8" />
@@ -106,9 +113,6 @@
       <recent name="chapter_16.mymodapp.appsrc.userfuncsimp" />
       <recent name="chapter_16.mymodapp.appsrc.userfuncs" />
       <recent name="chapter_16.mymodapp.appsrc.appsupport" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="chapter_25.v2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SimpleKey">
@@ -267,9 +271,11 @@
       <workItem from="1727952380401" duration="19042000" />
       <workItem from="1728313313216" duration="17000" />
       <workItem from="1728468081029" duration="1965000" />
-      <workItem from="1728508742172" duration="7207000" />
-      <workItem from="1728565302985" duration="696000" />
-      <workItem from="1730581526964" duration="15000" />
+      <workItem from="1728508742172" duration="6345000" />
+      <workItem from="1730581587414" duration="3357000" />
+      <workItem from="1730632628204" duration="614000" />
+      <workItem from="1730665214521" duration="2270000" />
+      <workItem from="1730715154539" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -487,21 +493,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727998753249</updated>
     </task>
-    <task id="LOCAL-00028" summary="feat(chapter_25): add package chapter_25.">
+    <task id="LOCAL-00028" summary="feat(add project): add project LRUCache">
       <option name="closed" value="true" />
-      <created>1728516842464</created>
+      <created>1730671611865</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1728516842464</updated>
+      <updated>1730671611865</updated>
     </task>
-    <task id="LOCAL-00029" summary="feat(chapter_25): update package chapter_25.">
+    <task id="LOCAL-00029" summary="feat(add project): add project AuctionServer part one">
       <option name="closed" value="true" />
-      <created>1728516911430</created>
+      <created>1730673256445</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1728516911430</updated>
+      <updated>1730673256445</updated>
     </task>
     <option name="localTasksCounter" value="30" />
     <servers />
@@ -521,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(TaskAllocation): add package TaskAllocation." />
     <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
     <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
     <MESSAGE value="feat(MazeSolver): add package MazeSolver." />
@@ -544,9 +549,10 @@
     <MESSAGE value="feat(chapter_22): add package chapter_22." />
     <MESSAGE value="feat(chapter_23): add package chapter_23." />
     <MESSAGE value="feat(chapter_24): add package chapter_24." />
-    <MESSAGE value="feat(chapter_25): add package chapter_25." />
-    <MESSAGE value="feat(chapter_25): update package chapter_25." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_25): update package chapter_25." />
+    <MESSAGE value="feat(add project): add project LRUCache" />
+    <MESSAGE value="feat(add project): add project AuctionServer" />
+    <MESSAGE value="feat(add project): add project AuctionServer part one" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(add project): add project AuctionServer part one" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
