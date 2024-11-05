@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_24): add package chapter_24.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/KeyEventsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MouseEventsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MousePressedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MyMouseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/MyWindowAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/SimpleKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v2/AdapterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v3/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ebook_the_complete_reference_thirteenthEdition/src/chapter_25/v4/AnonymousInnerClassDemo.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(chapter_25): update package chapter_25.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joaoscioli"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joaoscioli/Java.git",
+    "accountId": "67a8006e-8d3f-4d06-913f-8196a06eca46"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -70,6 +72,7 @@
     "Application.WriteDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -103,6 +106,9 @@
       <recent name="chapter_16.mymodapp.appsrc.userfuncsimp" />
       <recent name="chapter_16.mymodapp.appsrc.userfuncs" />
       <recent name="chapter_16.mymodapp.appsrc.appsupport" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter_25.v2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SimpleKey">
@@ -184,7 +190,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.23" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.23" />
       </set>
     </attachedChunks>
   </component>
@@ -260,7 +267,9 @@
       <workItem from="1727952380401" duration="19042000" />
       <workItem from="1728313313216" duration="17000" />
       <workItem from="1728468081029" duration="1965000" />
-      <workItem from="1728508742172" duration="6345000" />
+      <workItem from="1728508742172" duration="7207000" />
+      <workItem from="1728565302985" duration="696000" />
+      <workItem from="1730581526964" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -478,7 +487,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727998753249</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat(chapter_25): add package chapter_25.">
+      <option name="closed" value="true" />
+      <created>1728516842464</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728516842464</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat(chapter_25): update package chapter_25.">
+      <option name="closed" value="true" />
+      <created>1728516911430</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728516911430</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,8 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(ToDo): add package ToDo." />
-    <MESSAGE value="feat(Songs): add package Songs." />
     <MESSAGE value="feat(TaskAllocation): add package TaskAllocation." />
     <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
     <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
@@ -521,7 +544,9 @@
     <MESSAGE value="feat(chapter_22): add package chapter_22." />
     <MESSAGE value="feat(chapter_23): add package chapter_23." />
     <MESSAGE value="feat(chapter_24): add package chapter_24." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_24): add package chapter_24." />
+    <MESSAGE value="feat(chapter_25): add package chapter_25." />
+    <MESSAGE value="feat(chapter_25): update package chapter_25." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(chapter_25): update package chapter_25." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
