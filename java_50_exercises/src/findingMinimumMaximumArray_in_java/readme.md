@@ -1,0 +1,5 @@
+# Finding the minimum or maximum in an array in Java
+Write a Java program that finds and displays either the minimum or the maximum of an array of integers. The user must first choose whether to search for the minimum or the maximum, and then enter the elements of the array. The program must then find and display the corresponding value (minimum or maximum) in the array.
+You need to code the minimum or maximum search logic in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we have created a program that allows the user to choose whether to search for the minimum or the maximum in an array of integers. The program first asks for this choice, followed by the size of the array and the elements of the array. Depending on the user's choice, the program searches for and displays either the minimum or the maximum. The code is divided into two functions, findAndDisplayMinimum and findAndDisplayMaximum, to handle the two cases.
