@@ -1,0 +1,5 @@
+# Calculating the average of an array of numbers in Java
+Write a Java program that calculates the average of the numbers in an array. The user must first enter the size of the table, then enter the numbers one by one. The program then calculates the average of these numbers and displays it.
+You need to code the averaging logic in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we have used an array of numbers and a for loop to allow the user to enter the elements of the array one by one. The sum of the numbers is calculated at the same time. Then the calculateAverage function is used to calculate the average by dividing the sum by the number of elements in the array. If the array is empty, the average is set to 0 to avoid division by zero. The program then displays the average.
