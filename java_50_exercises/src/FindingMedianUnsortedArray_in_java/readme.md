@@ -1,0 +1,5 @@
+# Finding the median in an unsorted array in Java
+Write a Java program that finds the median of an unsorted array of integers. The median is the central value of a set of sorted or unsorted data. You need to find the median in an unsorted array.
+You need to code the median search logic in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we used the Arrays.sort method to sort the array of integers, which is essential for finding the median. Then we used logic to determine the median based on the parity of the array size. If the array has an even number of elements, the median is the average of the two central elements. If the array has an odd number of elements, the median is the central element. The program then displays the median.
