@@ -1,0 +1,5 @@
+# Merging two sorted arrays in Java
+Write a Java program that merges two sorted arrays into a single sorted array. The user must enter the size of the two arrays and their elements, and the program must merge the two arrays so that the resulting array is also sorted.
+You need to code the logic for merging the two sorted arrays in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we've used a mergeSortedArrays function to merge two sorted arrays into one resulting sorted array. The program asks the user to enter the size and elements of the two sorted arrays, then uses the mergeSortedArrays function to perform the merge. The result is then displayed. The merge is performed by comparing the elements of the two arrays and placing the smaller one in the resulting array, and so on until all the elements have been merged.
