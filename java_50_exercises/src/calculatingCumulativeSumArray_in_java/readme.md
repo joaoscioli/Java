@@ -1,0 +1,5 @@
+# Calculating the cumulative sum of an array in Java
+Write a Java program that calculates the cumulative sum of an array of integers. The cumulative sum is an array in which each element is the sum of all the previous elements of the original array, including itself. The user must enter the size of the array and its elements, and the program must calculate and display the cumulative sum array.
+You need to code the calculation logic for the cumulative sum table in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we have used the calculateCumulativeSum function to calculate the cumulative sum table. The program asks the user to enter the size of the array and the elements of the array, then uses the calculateCumulativeSum function to calculate the cumulative sum. The cumulative sum array is displayed at the end, where each element is the sum of all the previous elements, including itself.
