@@ -1,0 +1,5 @@
+# Converting a decimal number to binary in Java
+Write a Java program that converts a decimal number into its binary representation. The user must enter a decimal number, and the program must calculate the binary representation of this number and display it.
+You need to code the logic for converting a decimal number to binary in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we have used the convertDecimalToBinary function to convert a decimal number into its binary representation. The program asks the user to enter a decimal number and then uses the function to perform the conversion. The conversion logic consists of repeatedly dividing the decimal number by 2 and adding the remainders (0 or 1) at the beginning of the string to obtain the binary representation. The result is then displayed.
