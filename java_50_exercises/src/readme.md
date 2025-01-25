@@ -1,0 +1,2 @@
+# Conclusion
+Congratulations, you've been on an exciting journey through the world of algorithms using Java as your ally. By working through the 50 exercises in this book, you have gained a solid understanding of the fundamental concepts of programming and problem solving.
