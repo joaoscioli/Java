@@ -1,0 +1,5 @@
+# Calculating the power of a number in Java
+Write a Java program that calculates the power of a number. The user must enter the base (a number) and the exponent (a non-negative integer). The program must calculate the value of the base raised to the power of the exponent and display it.
+You need to code the logic for calculating the power in Java, also handling the case where the exponent is a negative number, and make sure that your program works correctly. You can add comments to explain your code.
+Example of a solution in Java :
+In this example, we have used a for loop to calculate the power of the base raised to the exponent. The program asks the user to enter the base and exponent, checks that the exponent is a non-negative integer, then calculates the power and displays it. The power of the base to the 0th power is defined as 1.

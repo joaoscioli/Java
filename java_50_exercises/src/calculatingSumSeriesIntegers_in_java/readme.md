@@ -1,0 +1,4 @@
+# Calculating the sum of a series of integers in Java
+Write a Java program that calculates the sum of a series of integers. The user must enter the number of integers to be added together, then enter the integers. The program must then calculate the sum of these integers and display it.
+You need to code the logic for calculating the sum in Java and make sure that your program works correctly. You can also add comments to explain your code.
+In this example, we have used a for loop to allow the user to enter the integers one at a time. With each iteration of the loop, the integer entered is added to the sum variable, which is used to store the total sum. Once all the integers have been entered, the program displays the sum.

@@ -1,0 +1,5 @@
+# Search for prime numbers in a given range in Java
+Write a Java program that finds and displays all the prime numbers in a given range. A prime number is an integer greater than 1 that has only two divisors: 1 and itself.
+You need to code the logic for finding prime numbers in Java and make sure that your program works correctly. You can also add comments to explain your code.
+Example of a solution in Java :
+In this example, we have used an isPrime function to check whether a given number is prime. The program asks the user to enter the minimum and maximum value in the range, and then finds and displays all the primes in that range using the findAndDisplayPrimes function. The isPrime function checks whether a number is prime by checking whether it is divisible by a number other than 1 and itself. Note that 2 is considered the first prime number, and the program ensures that the minimum value in the range is at least 2.
