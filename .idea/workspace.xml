@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(add project): add project AuctionServer">
-      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/java_24_newFeatures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/jep_495/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/jep_495/v2/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="new java 24 : add project JEP examples new features">
+      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/jep_488/jep_488.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +23,7 @@
         <option value="Record" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Test" />
       </list>
     </option>
   </component>
@@ -78,6 +76,7 @@
     "Application.ThreadDemo.executor": "Run",
     "Application.WildcardDemo.executor": "Run",
     "Application.WriteDemo.executor": "Run",
+    "Application.calcule.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,6 +94,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -108,6 +108,7 @@
       <recent name="chapter_12.v8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joaos\Java\java_24_newFeatures\src" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\v2" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appfuncs" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appstart" />
@@ -187,8 +188,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.200" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.200" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.318" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.318" />
       </set>
     </attachedChunks>
   </component>
@@ -270,7 +271,8 @@
       <workItem from="1730665214521" duration="2270000" />
       <workItem from="1730715154539" duration="4709000" />
       <workItem from="1730842961278" duration="1611000" />
-      <workItem from="1743977816496" duration="1131000" />
+      <workItem from="1743977816496" duration="3384000" />
+      <workItem from="1744149946065" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -512,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730719905723</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="new java 24 : add project JEP examples new features">
+      <option name="closed" value="true" />
+      <created>1743979449637</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1743979449637</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
     <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
     <MESSAGE value="feat(MazeSolver): add package MazeSolver." />
     <MESSAGE value="feat(FileIndexer): add package FileIndexer." />
@@ -555,7 +564,8 @@
     <MESSAGE value="feat(add project): add project LRUCache" />
     <MESSAGE value="feat(add project): add project AuctionServer part one" />
     <MESSAGE value="feat(add project): add project AuctionServer" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(add project): add project AuctionServer" />
+    <MESSAGE value="new java 24 : add project JEP examples new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="new java 24 : add project JEP examples new features" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
