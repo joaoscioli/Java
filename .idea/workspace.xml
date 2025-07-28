@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="feat(add project): add project AuctionServer part one">
-      <change afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionClient/AuctionClient.java" afterDir="false" />
+    <list default="true" id="9f3ce720-7009-4cd2-ac6b-0a97b244825c" name="Changes" comment="new java 24 : add project JEP examples new features">
+      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_24_newFeatures/src/jep_488/jep_488.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/AuctionServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/java_challenges/src/AuctionServer/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,7 @@
         <option value="Record" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Test" />
       </list>
     </option>
   </component>
@@ -53,58 +53,62 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2jgpIbHaC48Rw934tPlU9w9ZZoq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AutoBox4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurrentThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoBoxWeight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoShipment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoSuper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MouseEventsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpGen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleKey.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Songs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildcardDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoBox4.executor": "Run",
+    "Application.CurrentThreadDemo.executor": "Run",
+    "Application.DemoBoxWeight.executor": "Run",
+    "Application.DemoShipment.executor": "Run",
+    "Application.DemoSuper.executor": "Run",
+    "Application.EnumDemo.executor": "Run",
+    "Application.EnumDemo4.executor": "Run",
+    "Application.FileDemo.executor": "Run",
+    "Application.GenDemo.executor": "Run",
+    "Application.MouseEventsDemo.executor": "Run",
+    "Application.SimpGen.executor": "Run",
+    "Application.SimpleInheritance.executor": "Run",
+    "Application.SimpleKey.executor": "Debug",
+    "Application.Songs.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.WildcardDemo.executor": "Run",
+    "Application.WriteDemo.executor": "Run",
+    "Application.calcule.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/joaos/Java/java_24_newFeatures/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;IntegrationPerformanceTest&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "IntegrationPerformanceTest"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter_12.v8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joaos\Java\java_24_newFeatures\src" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\v2" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appfuncs" />
       <recent name="C:\Users\joaos\Git_JoaoScioli\java_ebook_the_complete_reference_thirteenthEdition\src\chapter_16\mymodapp\appsrc\appstart" />
@@ -115,7 +119,7 @@
       <recent name="chapter_16.mymodapp.appsrc.appsupport" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleKey">
+  <component name="RunManager" selected="Application.calcule">
     <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_22.FileDemo" />
       <module name="GitJoaoScioli" />
@@ -142,19 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_14.SimpGen" />
-      <module name="GitJoaoScioli" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_25.SimpleKey" />
       <module name="GitJoaoScioli" />
@@ -168,34 +159,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_14.v3.WildcardDemo" />
-      <module name="GitJoaoScioli" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_14.v3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="calcule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="calcule" />
+      <module name="java_24_newFeatures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="java_24_newFeatures" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calcule" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.SimpleKey" />
         <item itemvalue="Application.MouseEventsDemo" />
         <item itemvalue="Application.FileDemo" />
-        <item itemvalue="Application.WildcardDemo" />
-        <item itemvalue="Application.SimpGen" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.23" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.23" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.318" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.318" />
       </set>
     </attachedChunks>
   </component>
@@ -275,7 +269,10 @@
       <workItem from="1730581587414" duration="3357000" />
       <workItem from="1730632628204" duration="614000" />
       <workItem from="1730665214521" duration="2270000" />
-      <workItem from="1730715154539" duration="3436000" />
+      <workItem from="1730715154539" duration="4709000" />
+      <workItem from="1730842961278" duration="1611000" />
+      <workItem from="1743977816496" duration="3384000" />
+      <workItem from="1744149946065" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="feat(customer-src): add Customer src">
       <option name="closed" value="true" />
@@ -509,7 +506,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730673256445</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="feat(add project): add project AuctionServer">
+      <option name="closed" value="true" />
+      <created>1730719905723</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730719905723</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new java 24 : add project JEP examples new features">
+      <option name="closed" value="true" />
+      <created>1743979449637</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1743979449637</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(WordFrequencies): add package WordFrequencies." />
     <MESSAGE value="feat(SyntaxChecker): add package SyntaxChecker." />
     <MESSAGE value="feat(MazeSolver): add package MazeSolver." />
     <MESSAGE value="feat(FileIndexer): add package FileIndexer." />
@@ -550,9 +562,10 @@
     <MESSAGE value="feat(chapter_23): add package chapter_23." />
     <MESSAGE value="feat(chapter_24): add package chapter_24." />
     <MESSAGE value="feat(add project): add project LRUCache" />
-    <MESSAGE value="feat(add project): add project AuctionServer" />
     <MESSAGE value="feat(add project): add project AuctionServer part one" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(add project): add project AuctionServer part one" />
+    <MESSAGE value="feat(add project): add project AuctionServer" />
+    <MESSAGE value="new java 24 : add project JEP examples new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="new java 24 : add project JEP examples new features" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

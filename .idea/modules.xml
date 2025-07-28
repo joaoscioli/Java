@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitJoaoScioli.iml" filepath="$PROJECT_DIR$/GitJoaoScioli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_24_newFeatures/java_24_newFeatures.iml" filepath="$PROJECT_DIR$/java_24_newFeatures/java_24_newFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_challenges/java_challenges.iml" filepath="$PROJECT_DIR$/java_challenges/java_challenges.iml" />
     </modules>
   </component>

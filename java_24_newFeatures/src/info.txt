@@ -1,0 +1,5 @@
+-------------------------------JAVA 24----------------------------------------
+- https://www.oracle.com/news/announcement/oracle-releases-java-24-2025-03-18/
+
+**JEP 488: JEP 488: Primitive Types in Patterns, instanceof, and switch (Second Preview)
+--link: https://openjdk.org/jeps/488
