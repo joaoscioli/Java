@@ -1,4 +1,12 @@
 # Java
+
+> Portfolio status: legacy study notes.
+>
+> This repository is preserved as part of my learning history. It is not one of
+> my curated portfolio projects and may be archived or made private later.
+> Current portfolio projects prioritize original implementation, tests,
+> architecture documentation, CI/CD, and production-oriented practices.
+
 ⛺TheCodingCabin 👋 Vamos conhecer um pouco do Java.
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/105243897/208307464-7bbe7d86-e245-4112-8270-e7d278128c0b.png">
